@@ -6,6 +6,7 @@ let mainDiv = document.querySelector(".main-div");
 console.log(mainDiv);
 
 let listItems = document.querySelectorAll("ul.list > li");
+console.log(listItems);
 
 // Modificar Elementos del DOM
 // // - Cambiar contenido
